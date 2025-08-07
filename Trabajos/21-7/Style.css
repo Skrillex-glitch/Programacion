@@ -1,0 +1,44 @@
+
+#header{
+     border: solid 5px red;
+}
+
+#nav{
+     border: solid 5px green;
+}
+
+#Section{
+    background: bLue;
+    border-inline: 1px;
+}
+
+#aside{
+    background: rgb(255, 106, 0);
+    border-inline: 1px;
+}
+
+#article{
+    background: rgb(255, 0, 162);
+    border-inline: 1px;
+}
+
+#P1{
+    border: solid 5px rgb(196, 12, 12);
+}
+
+#Aside{
+         border: solid 5px Gray;
+
+}
+
+#SectionMain{
+   border: solid 5px Blue;
+}
+
+#ArticleMain{
+   border: solid 5px yellow;
+}
+
+#Footer{
+   border: solid 5px orange;
+}

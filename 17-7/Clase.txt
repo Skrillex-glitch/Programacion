@@ -1,0 +1,22 @@
+¿Qué es el desarrollo web?
+
+Se conoce como desarrollo web al proceso de crear y mantener un sitio web que sea funcional en internet, a través de diferentes lenguajes de programación y etapas.
+
+Cada sitio tiene una URL única que lo distingue de los demás en la red.
+
+El desarrollo web tiene como objetivó el crear sitios web funcionales, atractivos y accesibles para los usuarios
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Sitios Dinámicos vs Estáticos
+
+Estáticos: Muestran el mismo contenido para todos los usuarios y no cambian a menos que el desarrollador lo modifique
+Dinámicos: Pueden adaptar su contenido a función del usuario, sus acciones o datos en tiempo real.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Que es un programador full Stack?
+
+Es aquel que tiene la capacidad de trabajar en todas las etapas del desarrollo web como en frontend (La parte visible para el usuario) como en el backend (La parte del servidor y la base de datos.
+
+
